@@ -1,6 +1,6 @@
 function getFirstSelector(selector)  {
 
-console.log(document.querySelector(id))
+console.log(document.querySelector('main.app'))
 
 }
 
