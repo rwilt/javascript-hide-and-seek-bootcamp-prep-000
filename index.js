@@ -20,5 +20,5 @@ function nestedTarget() {
 
 function increaseRankBy(n) {
   var rankedList = document.querySelector('ul.ranked-list li li')
-  
+  parseInt(rankedList)
 }
