@@ -22,7 +22,7 @@ function increaseRankBy(n) {
   var rankedList = document.querySelector('ul.ranked-list li')
   var rankedArray = []
    for (var i = 0; i < rankedList.length; i++) {
-     rankedList.push(rankedArray)
+     rankedArray.push(rankedList)
      parseInt(rankedList) + n
    }
 }
