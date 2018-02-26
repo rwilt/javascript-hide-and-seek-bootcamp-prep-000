@@ -19,5 +19,5 @@ function nestedTarget() {
 // </ul>
 
 function increaseRankBy(n) {
-  
+  document.querySelector('ul.ranked-list li li')
 }
